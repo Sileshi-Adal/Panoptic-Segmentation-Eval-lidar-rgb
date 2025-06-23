@@ -70,6 +70,6 @@ Notebooks are tested in **Google Colab** with CPU-only compatibility where possi
 
 For academic questions or collaboration:
 **[Sileshi Adal]**  
-`sileshi.ziena@gmail.com
+sileshi.ziena@gmail.com
 siziada@utu.fi  
 *Based on MSc Thesis, 2025*
